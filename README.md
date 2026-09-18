@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./power-electronics-cybersecurity-typing-v2.svg"
-       alt="Power Electronics × Cybersecurity"
-       width="100%">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1200&color=6B4A2B&center=true&vCenter=true&width=800&height=50&lines=Power+Electronics+%C3%97+Cybersecurity;Building+Power+Converters;Embedded+Systems+%26+Hardware+Security;Hardware+%C2%B7+Systems+%C2%B7+Security" alt="Typing introduction">
 </p>
 
 # Holy Rich
