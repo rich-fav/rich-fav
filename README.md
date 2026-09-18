@@ -2,6 +2,12 @@
   <img src="./github-profile-banner.jpg" alt="Power Electronics × Cybersecurity" width="100%">
 </p>
 
+<p align="center">
+  <img src="./power-electronics-cybersecurity-typing.svg"
+       alt="Power Electronics × Cybersecurity animated engineering terminal"
+       width="100%">
+</p>
+
 # Holy Rich
 
 **Electronic & Computer Engineering Student \| Power Electronics ×
