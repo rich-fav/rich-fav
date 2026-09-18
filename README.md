@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-profile-banner.jpg" alt="Power Electronics × Cybersecurity" width="100%">
+</p>
+
 # Holy Rich
 
 **Electronic & Computer Engineering Student \| Power Electronics ×
