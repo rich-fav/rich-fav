@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="./power-electronics-cybersecurity-typing.svg"
-       alt="Power Electronics × Cybersecurity animated engineering terminal"
+  <img src="./power-electronics-cybersecurity-typing-v2.svg"
+       alt="Power Electronics × Cybersecurity"
        width="100%">
 </p>
 
