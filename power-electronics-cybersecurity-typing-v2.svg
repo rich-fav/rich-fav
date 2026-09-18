@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
+<rect width="1000" height="190" rx="12" fill="#f5efe3"/>
+<rect x="18" y="18" width="964" height="154" rx="8" fill="none" stroke="#b77a45" stroke-width="2"/>
+<circle cx="45" cy="45" r="6" fill="#355744"/><circle cx="67" cy="45" r="6" fill="#b77a45"/><circle cx="89" cy="45" r="6" fill="#3e3a35"/>
+<style>.title{font:700 28px DejaVu Sans,Arial,sans-serif;fill:#2f302d}.mono{font:18px DejaVu Sans Mono,monospace;fill:#355744}.sub{font:700 14px DejaVu Sans,Arial,sans-serif;fill:#6b6258;letter-spacing:1px}.cursor{fill:#b77a45}</style>
+<text x="45" y="93" class="title">POWER ELECTRONICS × CYBERSECURITY</text>
+<text x="45" y="126" class="mono">$ ./build_system</text>
+<defs>
+<clipPath id="a"><rect x="44" y="132" width="0" height="23"><animate attributeName="width" values="0;0;205;205;0" keyTimes="0;.04;.22;.30;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="b"><rect x="44" y="132" width="0" height="23"><animate attributeName="width" values="0;0;210;210;0" keyTimes="0;.34;.52;.60;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c"><rect x="44" y="132" width="0" height="23"><animate attributeName="width" values="0;0;235;235;0" keyTimes="0;.64;.80;.87;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="d"><rect x="44" y="132" width="0" height="23"><animate attributeName="width" values="0;0;105;105;0" keyTimes="0;.89;.95;.985;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g class="mono">
+<text x="45" y="151" clip-path="url(#a)">Initializing hardware...</text>
+<text x="45" y="151" clip-path="url(#b)">Analyzing power stage...</text>
+<text x="45" y="151" clip-path="url(#c)">Securing control system...</text>
+<text x="45" y="151" clip-path="url(#d)">System ready.</text>
+</g>
+<rect x="45" y="132" width="10" height="19" class="cursor"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
+<text x="45" y="174" class="sub">HARDWARE · SYSTEMS · SECURITY</text>
+</svg>
